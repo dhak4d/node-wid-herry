@@ -9,6 +9,6 @@ mango = {
     developer: true
 }
 // console.log(exports, require, module)
-// git 
+
 module.exports = mango
 //})
